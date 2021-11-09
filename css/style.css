@@ -12,15 +12,18 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('../img/code.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-image: url('../img/It-s-Britney-Bitch-britney-spears-28801244-400-274.jpg');
+  opacity:100%;
+  background-size: ;
+  background-repeat: repeat;
+  
 }
 
 .masthead-intro {
     margin-bottom: 0.1em;
-    font-size: 2em;
-    color: #ffffff;
+    font-size: 6em;
+    color: #00008B;
+    font-weight: bold;
 }
 
 .masthead-heading {
@@ -29,7 +32,8 @@ body {
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #ffa807;
+    stroke-width: 16em;
 }
 
 .details {
@@ -62,7 +66,7 @@ section > h1 {
 }
 
 #footer a {
-  color: #ffffff;
+  color: #808080;
 }
 .social > li {
   display: inline-block;
